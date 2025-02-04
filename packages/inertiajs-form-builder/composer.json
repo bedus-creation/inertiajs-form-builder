@@ -1,0 +1,13 @@
+{
+    "name": "mantraphp/forms",
+    "autoload": {
+        "psr-4": {
+            "MantraPHP\\Forms\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
