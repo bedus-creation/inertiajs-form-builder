@@ -1,5 +1,5 @@
 <template>
-    <div class="w-[400px] mx-auto">
+    <div class="w-[400px] mx-auto mt-20">
         <Mantra :data="form"/>
     </div>
 </template>
